@@ -89,6 +89,5 @@ public class PokerShuffleCards {
         System.out.println("玩家2的牌： " + siPlayer2);
         System.out.println("玩家3的牌： " + siPlayer3);
 
-
     }
 }
