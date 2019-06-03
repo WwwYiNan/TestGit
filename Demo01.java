@@ -25,4 +25,5 @@ public class Demo01 {
             out.write(c[i]);
         }
     }
+
 }
