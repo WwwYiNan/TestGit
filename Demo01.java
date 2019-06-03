@@ -6,6 +6,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class Demo01 {
+
     public static void main(String[] args) throws IOException {
         FileInputStream fis = new FileInputStream("D:\\a.txt");
         int b=0;
