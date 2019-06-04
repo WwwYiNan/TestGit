@@ -16,6 +16,7 @@ public class Books {
         this.Publish=Publish;
 
     }
+    @Override
     public String toString(){
         String message="图书编号"+id+"图书名称"+name+"出版社"+Publish
         +"单价"+price+"库存数量"+number;
