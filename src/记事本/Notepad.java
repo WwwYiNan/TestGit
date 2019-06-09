@@ -77,6 +77,7 @@ public class Notepad {
         System.out.println("打开内容为：" + "\r\n" + message);
         in.close();//释放资源
 
+
     }
 
 
